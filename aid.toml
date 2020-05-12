@@ -1,0 +1,7 @@
+[package]
+name="vgg"
+vendor="aidmodels"
+
+[[solvers]] 
+name="ImageClassificationSolver"
+class="vgg/solver/SampleSolver"
