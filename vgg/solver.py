@@ -1,4 +1,4 @@
-from aid.solver import Solver
+from mlpm.solver import Solver
 from keras.applications.vgg16 import VGG16
 from keras.preprocessing.image import load_img
 from keras.preprocessing.image import img_to_array
