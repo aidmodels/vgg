@@ -4,4 +4,4 @@ vendor="aidmodels"
 
 [[solvers]] 
 name="ImageClassificationSolver"
-class="vgg/solver/SampleSolver"
+class="vgg/solver/ImageClassificationSolver"
